@@ -10,6 +10,9 @@ Just download the batch script file and write the following command for help.
 
 ## how does it work?
 To activate DNS, for example Iran:
+
 `dns on iran`
+
 To disable DNS:
+
 `dns off`
