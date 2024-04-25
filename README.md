@@ -8,7 +8,7 @@ Just download the batch script file and write the following command for help.
 3. https://begzar.ir/
 4. https://electrotm.org/
 
-##how does it work?
+## how does it work?
 To activate DNS, for example Iran:
 `dns on iran`
 To disable DNS:
